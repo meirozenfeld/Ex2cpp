@@ -1,11 +1,4 @@
-//#include "FamilyTree.hpp"
-//#include <iostream>
-//#include <string>
-//
-//
-//
-//using namespace std;
-//using namespace family;
+
 #include "FamilyTree.hpp"
 #include <string>
 #include <stdexcept>
